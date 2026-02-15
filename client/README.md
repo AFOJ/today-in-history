@@ -32,5 +32,5 @@ cp .env.example .env
 5. Run the project
 
 ```bash
-npm run client
+npm run dev
 ```
